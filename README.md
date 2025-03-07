@@ -1,8 +1,7 @@
 # Max98357I2SAmp
 
 ## 🚀 Overview
-
-
+![Main Preview](assets/img/main.png)
 
 This is an open-source KiCad redesign of the **Adafruit MAX98357 I2S Amp Breakout**, featuring modified input and output connectors using **JST-SH & JST-PH**. This version maintains the compact, efficient, and high-performance Class-D amplifier while enhancing connectivity for ease of integration into various projects.
 
@@ -27,9 +26,7 @@ This is an open-source KiCad redesign of the **Adafruit MAX98357 I2S Amp Breakou
 ## 📐 PCB Design Preview
 
 | 📜 Schematic | 🖥️ PCB Layout | 🏗️ 3D |
-| ------------ | -------------- | ------ |
-|              |                |        |
-
-
+|-----------|-----------|-----------|
+| <img src="assets/img/schematic.png"> | <img src="assets/img/pcb_layout.png"> | <img src="assets/img/3d.png"> |
 
 **Inspired by Adafruit's MAX98357 I2S Amp Breakout, redesigned for improved connectivity.**
