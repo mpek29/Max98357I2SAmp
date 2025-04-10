@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2, C3",0603,3,100nF,
+"FB1, FB2",0603,2,FerriteBead,
+J1,JST_SH_SM07B-SRSS-TB_1x07-1MP_P1.00mm_Horizontal,1,Conn_01x07,
+J2,JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,1,Conn_01x02,
+R1,0603,1,1MΩ,
+U1,TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm,1,MAX98357A,

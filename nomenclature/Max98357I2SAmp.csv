@@ -1,0 +1,7 @@
+"Reference","Value","Footprint"
+"C1,C2,C3","100nF","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+"FB1,FB2","FerriteBead","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+"J1","Conn_01x07","Connector_JST:JST_SH_SM07B-SRSS-TB_1x07-1MP_P1.00mm_Horizontal"
+"J2","Conn_01x02","Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal"
+"R1","1MΩ","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+"U1","MAX98357A","Package_DFN_QFN:TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm"
